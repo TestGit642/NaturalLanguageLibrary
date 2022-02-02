@@ -24,7 +24,7 @@
 
 ## ମୁଖ୍ୟ ଶବ୍ଦଗୁଡ଼ିକର ସଂକ୍ଷିପ୍ତ ସମୀକ୍ଷା |
 
-ଅଧିକ ବିବରଣୀ ପାଇଁ [wiki] ଯାଞ୍ଚ କରନ୍ତୁ |
+ଅଧିକ ବିବରଣୀ ପାଇଁ [wiki](https://github.com/TestGit642/NaturalLanguageLibrary/wiki) ଯାଞ୍ଚ କରନ୍ତୁ |
 
 False `ମିଥ୍ୟା`
 
